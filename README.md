@@ -1,3 +1,7 @@
+# IBM Online Course Django project
+**Available at: https://github.com/ibm-developer-skills-network/tfjzl-final-cloud-app-with-database.git**
+
+This is the final project for the course.
 
 **General Notes**
 
